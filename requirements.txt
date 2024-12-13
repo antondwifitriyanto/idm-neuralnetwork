@@ -5,4 +5,4 @@ numpy==1.23.5
 matplotlib==3.6.3
 scikit-learn==1.2.2
 pillow==9.4.0
-
+transformers==4.33.3
