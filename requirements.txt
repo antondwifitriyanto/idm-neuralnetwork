@@ -1,0 +1,10 @@
+python==3.9
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+pillow
+pyparsing
+cycler
+joblib
